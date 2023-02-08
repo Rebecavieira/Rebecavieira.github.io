@@ -1,0 +1,20 @@
+.foto-about{
+    border-radius: 100% !important;
+    
+    width: 200px;
+    height: 200px;
+}
+
+.foto-about-section{
+    display: flex;
+    justify-content: center;
+}
+
+.foto-about-section div{
+    width: 35%;
+    margin: auto;
+}
+
+.major{
+    width: 50% !important;
+}
